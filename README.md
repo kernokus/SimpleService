@@ -1,2 +1,3 @@
-# simpleService
+# SimpleService
+Простейший веб сервис без каких-либо фреймворков на голом python
  
